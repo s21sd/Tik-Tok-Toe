@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TikTakToe</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="tiktaktoe">TikTakToe</string>
+    <string name="reset">Reset</string>
+</resources>
